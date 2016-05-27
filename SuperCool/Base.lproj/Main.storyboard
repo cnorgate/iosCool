@@ -18,7 +18,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7vd-fY-4tT">
-                                <rect key="frame" x="45" y="404" width="285" height="30"/>
+                                <rect key="frame" x="45" y="402" width="285" height="30"/>
                                 <state key="normal" title="Make me super cool!"/>
                                 <connections>
                                     <action selector="makeMeCool:" destination="BYZ-38-t0r" eventType="touchUpInside" id="NZB-ew-qvK"/>
